@@ -19,8 +19,6 @@ output:
 class: center
 background-image: url("mainFinal2.png")
 
-???
-https://app.wombo.art/
 ---
 
 <style type="text/css">
@@ -81,9 +79,9 @@ c) Practical aspect – using R to analyse the data and build the statistical mo
 - Materials:<br/>
 a) Presentations (press __p__ for additional content)<br/>
 b) Commented R code
-([link](https://nvaci.github.io/Lecture_1_code/Lecture_1_Code.html) for this lecture)<br/>
+([link](https://nemanjavaci.netlify.app/advanced-stats-course/psy6210-r-code/) for this lecture)<br/>
 c) Slack channel to discuss statistical questions<br/>
-d) Course glossary: link
+d) Course glossary: [link](https://nemanjavaci.netlify.app/advanced-stats-course/psy6210-glossary/)
 ???
 General overview of the course<br/>
 <br/>
